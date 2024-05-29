@@ -1,0 +1,71 @@
+/* BODY.CSS */
+
+
+.f-grow {
+  flex-grow: 1;
+}
+
+.s-sec-ad {
+
+}
+
+.b-ad-wrapper {
+  padding: 0rem 0rem 5rem 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 50%;
+  height: 100%;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  background-position: center;
+}
+
+#main-body {
+  height: 100%;
+  background-color: rgb(163, 163, 163);
+}
+
+.ad-section {
+  display: flex;
+  height: 35rem;
+  width: 100%;
+  padding: 0.7rem;
+  gap: 1rem;
+  box-sizing: border-box;
+  background-color: rgb(255, 255, 255);6
+}
+
+.h-ad-wrapper {
+  padding: 0rem 0rem 5rem 5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 50%;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  background-position: center;
+}
+
+.s-btn {
+  width: 15%;
+  padding-inline: 1rem;
+  padding-block: 0.4rem;
+  border-radius: 9px;
+  box-shadow: 0px 0px 13px rgba(8, 7, 7, 0.2);
+}
+
+.m-btn {
+  /* width: 15%; */
+  padding-inline: 0.5rem;
+  padding-block: 0.2rem;
+  border-radius: 15px;
+  box-shadow: 0px 0px 13px rgba(8, 7, 7, 0.2);
+  color: black;
+}
+
+.atc-btn {
+  color: black;
+}
